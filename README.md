@@ -1,5 +1,5 @@
-# Team Bitcoders Robothon 2020
-Official submission of team Bitcoders, the winners of Robothon 2020 NIT Raipur.
+# Team Tetrax Robothon 2020
+Official submission of team Tetrax, the winners of Robothon 2020 NIT Raipur.
 
 ## About
 A water quality index solution to find the quality of water of rivers in remote areas. 
